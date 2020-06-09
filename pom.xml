@@ -14,7 +14,8 @@
     </parent>
     <groupId>com.springstudies</groupId>
     <artifactId>petclinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.5-SNAPSHOT</version>
+
     <name>Pet Clinic</name>
     <description>Pet Clinic</description>
 
