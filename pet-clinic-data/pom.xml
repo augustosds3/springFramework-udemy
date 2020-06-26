@@ -3,9 +3,10 @@
     <parent>
         <artifactId>petclinic</artifactId>
         <groupId>com.springstudies</groupId>
-        <version>0.0.5</version>
+        <version>0.0.5.SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+
 
     <artifactId>pet-clinic-data</artifactId>
 
