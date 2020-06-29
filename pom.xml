@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.springstudies</groupId>
     <artifactId>petclinic</artifactId>
-    <version>0.0.5.SNAPSHOT</version>
+    <version>0.0.5</version>
 
     <name>Pet Clinic</name>
     <description>Pet Clinic</description>
@@ -42,7 +42,7 @@
 
     <scm>
         <developerConnection>scm:git:ssh://git@github.com:augustosds3/springFramework-udemy.git</developerConnection>
-      <tag>pet-clinic-tag</tag>
+      <tag>0.0.5</tag>
   </scm>
 
 </project>
